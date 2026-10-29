@@ -1,0 +1,9 @@
+title: Park the Bus – Legal
+description: Privacy policy and terms of use for the mobile game Park the Bus by TPG Studio.
+baseurl: /parkthebus-legal
+url: https://neshat55.github.io
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+exclude:
+  - README.md
