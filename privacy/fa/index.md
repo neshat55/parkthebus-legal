@@ -2,7 +2,7 @@
 layout: default
 title: "سیاست حریم خصوصی پارک اتوبوس"
 lang: fa
-dir: rtl
+text_dir: rtl
 other_url: "/terms/fa/"
 other_label: "شرایط استفاده"
 ---

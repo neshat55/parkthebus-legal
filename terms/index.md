@@ -2,7 +2,7 @@
 layout: default
 title: "Park the Bus – Terms of Use"
 lang: en
-dir: ltr
+text_dir: ltr
 other_url: "/privacy/"
 other_label: "Privacy Policy"
 ---

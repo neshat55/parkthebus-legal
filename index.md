@@ -2,7 +2,7 @@
 layout: default
 title: Park the Bus – Legal
 lang: en
-dir: ltr
+text_dir: ltr
 ---
 
 # Park the Bus
