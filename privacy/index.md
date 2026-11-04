@@ -11,11 +11,11 @@ other_label: "Terms of Use"
 
 **English** · [فارسی](fa/)
 
-*Effective date: 29 October 2026*
+*Effective date: 29 October 2026. Last updated: 4 November 2026 (section 10, the tester sign-up site).*
 
 This policy explains what information the mobile game **Park the Bus** (package `com.tpgstudio.parkthebus`, "the game") uses, why, and the choices you have. The game is made by **TPG Studio**, Türkiye ("we", "us"). Contact: **neshatvarjavand@gmail.com**.
 
-We do not run our own servers for the game, we do not ask you to create an account with us, and we do not sell your personal information. The game works through the Google services described below.
+We do not run our own servers for the game, we do not ask you to create an account with us, and we do not sell your personal information. The game works through the Google services described below. Before launch we also run a sign-up page for the game's closed test; what it collects is in section 10.
 
 ## 1. Information stored on your device
 
@@ -55,7 +55,7 @@ In-app purchases (gem packs, Remove Ads, the Elite Pass) are processed by **Goog
 
 ## 5. What we do not do
 
-- We do not collect your name, email address, contacts, photos, precise location or any other personal information ourselves.
+- The game does not collect your name, email address, contacts, photos, precise location or any other personal information for us. The only personal information we hold ourselves is what you give the tester sign-up site, if you use it (section 10).
 - We do not use analytics or crash-reporting services of our own.
 - We do not sell or rent personal information, and we do not share it with anyone except the Google services above, which act as described in their own policies.
 
@@ -68,12 +68,27 @@ The game is rated for ages 13 and over and is not directed at children under 13.
 - **On your device:** until you uninstall the game or use Settings > Reset progress.
 - **Play Games:** until you delete it from your Play Games profile, or delete your Google account's game data.
 - **Ads:** Google keeps ad data according to its own policy; you can reset your advertising ID at any time.
+- **Tester sign-up site:** deleted within 90 days after the game's public launch, or sooner on request (section 10).
 
 ## 8. Your rights
 
-Depending on where you live (for example the EU/UK GDPR, Türkiye's KVKK, Brazil's LGPD, or US state privacy laws) you may have the right to access, correct, delete or object to the use of personal information, and to withdraw consent. Because we hold no personal data on our own systems, most requests are fulfilled through the controls above (Privacy options, the Android advertising ID settings, the Play Games profile). For anything else, email **neshatvarjavand@gmail.com** and we will answer within 30 days. You may also complain to your local data protection authority.
+Depending on where you live (for example the EU/UK GDPR, Türkiye's KVKK, Brazil's LGPD, or US state privacy laws) you may have the right to access, correct, delete or object to the use of personal information, and to withdraw consent. Apart from the tester sign-up list (section 10), we hold no personal data on our own systems, so most requests are fulfilled through the controls above (Privacy options, the Android advertising ID settings, the Play Games profile). For anything else, email **neshatvarjavand@gmail.com** and we will answer within 30 days. You may also complain to your local data protection authority.
 
 ## 9. Changes
 
 If this policy changes we will update the date at the top and, for significant changes, tell you in the game.
+
+<a id="tester-sign-up-site"></a>
+
+## 10. Tester sign-up site
+
+Before the game launches we run a web page where you can sign up for its **closed test** on Google Play. The page is separate from the game; this section applies only if you sign up there.
+
+- **What we collect:** the email address of the Google account you use on Google Play; your first name, if you give it; the language of the page; your country (worked out by our host, Cloudflare, from your IP address, which itself is not stored with your sign-up); where you came from (for example TikTok, Instagram or YouTube, from the link you followed); your browser type in broad terms (for example "Android, Chrome", not the full browser string); and the time you signed up and agreed. To stop abuse, a one-way hash of your IP address is kept for at most a day to count sign-up attempts.
+- **Bot check:** the form uses **Cloudflare Turnstile**, which processes your IP address and browser signals to tell people from bots ([Turnstile privacy addendum](https://www.cloudflare.com/turnstile-privacy-policy/)).
+- **Why:** to add you to the closed test (we may upload your email to the tester list in Google Play Console) and to tell you when the game launches. Nothing else: no newsletters, no advertising, never sold or shared with anyone except Google for the tester list. We use it because you agreed to it with the tick box; you can withdraw at any time.
+- **Where it is stored:** in a database run by **Cloudflare, Inc.** (our hosting provider), which may process it in the United States and other countries. Joining the tester Google Group and opting in on Google Play happen on Google's own sites under the [Google Privacy Policy](https://policies.google.com/privacy); we can see the group's member list.
+- **How long:** we delete the sign-up list within 90 days after the game's public launch, or earlier if you ask.
+- **Deletion:** email **neshatvarjavand@gmail.com** with the address you signed up with and we will delete it within 30 days. To leave the test itself, tap *Leave the program* on the [tester page](https://play.google.com/apps/testing/com.tpgstudio.parkthebus) and leave the Google Group.
+- The sign-up is for people aged 13 and over.
 
